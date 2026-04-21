@@ -1,6 +1,6 @@
-Project Milestone #2: Web Dev & Accessibility Informational Website
+Intro to Web Dev MILESTONE PROJECT: Web Dev & Accessibility Informational Website
 
-New Features:
+New Features (ver. 3):
 -Images
 -Dropdown Menu
 -Home button
