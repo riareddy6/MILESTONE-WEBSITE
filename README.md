@@ -1,4 +1,4 @@
-Project Milestone #2: Web Dev & Accessibility
+Project Milestone #2: Web Dev & Accessibility Informational Website
 
 New Features:
 -Images
